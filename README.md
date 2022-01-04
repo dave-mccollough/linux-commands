@@ -1,2 +1,3 @@
-# linux-commands
-Repository of commonly used Linux commands
+# Linux Commands
+
+A Repository of commonly used Linux commands
