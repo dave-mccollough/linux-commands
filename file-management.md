@@ -17,3 +17,6 @@
 
 - `locate`  This command allows the user to find a file witin the system.  
     - ex. `locate samplefile.txt`.  This returns the files location
+
+- `cp`      This command allows the user to copy files.  `cp source destination`
+    - ex. `cp samplefile.txt newsamplefile.txt`
